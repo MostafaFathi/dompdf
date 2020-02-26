@@ -1,4 +1,4 @@
-Dompdf
+Fork of Dompdf with arabic support (original package https://github.com/dompdf/dompdf)
 ======
 
 [![Build Status](https://travis-ci.org/dompdf/dompdf.png?branch=master)](https://travis-ci.org/dompdf/dompdf)
