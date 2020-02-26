@@ -1,5 +1,19 @@
 Fork of Dompdf with arabic support (original package https://github.com/dompdf/dompdf)
 ======
+##Instalation
+Add composer.json:
+```php
+ "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/anasbakro/dompdf"
+        }
+    ]
+```
+Then run
+```php
+composer require dompdf/dompdf:0.8.6
+```
 
 [![Build Status](https://travis-ci.org/dompdf/dompdf.png?branch=master)](https://travis-ci.org/dompdf/dompdf)
 [![Latest Stable Version](https://poser.pugx.org/dompdf/dompdf/v/stable.png)](https://packagist.org/packages/dompdf/dompdf)
